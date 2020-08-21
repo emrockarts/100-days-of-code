@@ -19,7 +19,7 @@
 **Link(s) to work**: https://github.com/emrockarts/100-days-of-code/blob/master/log.md
 
 
-### Day 2: August 17, 2020
+### Day 3: August 18, 2020
 <!-- ##### (delete me or comment me out)
  -->
 **Today's Progress**: Completed Applied Accesibility & Responsive Web Design Principles on freecodecamp.
@@ -29,4 +29,21 @@
 **Link(s) to work**: https://github.com/emrockarts/100-days-of-code/blob/master/log.md
 
 
+### Day 4: August 19, 2020
+<!-- ##### (delete me or comment me out)
+ -->
+**Today's Progress**: Completed CSS Flexbox and CSS Grid on freecodecamp.
 
+**Thoughts**: This is trickier than I thought it would be, definitely need to practice this a lot!
+
+**Link(s) to work**: https://github.com/emrockarts/100-days-of-code/blob/master/log.md
+
+
+### Day 5: August 20, 2020
+<!-- ##### (delete me or comment me out)
+ -->
+**Today's Progress**: Had fun with the Tribute Page project on freecodecamp.
+
+**Thoughts**: Still have to figure out how to make this responsive, a job for tomorrow!
+
+**Link(s) to work**: https://codepen.io/emrockarts/pen/GRZNjeb
