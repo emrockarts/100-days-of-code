@@ -47,3 +47,12 @@
 **Thoughts**: Still have to figure out how to make this responsive, a job for tomorrow!
 
 **Link(s) to work**: https://codepen.io/emrockarts/pen/GRZNjeb
+
+### Day 6: August 22, 2020
+<!-- ##### (delete me or comment me out)
+ -->
+**Today's Progress**: Started the Survey Form project on freecodecamp.
+
+**Thoughts**: Worked out the html structure of the page, CSS tomorrow!
+
+**Link(s) to work**: https://codepen.io/emrockarts/pen/OJNWVzM
