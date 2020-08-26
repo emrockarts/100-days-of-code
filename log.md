@@ -56,3 +56,21 @@
 **Thoughts**: Worked out the html structure of the page, CSS tomorrow!
 
 **Link(s) to work**: https://codepen.io/emrockarts/pen/OJNWVzM
+
+### Day 7: August 23, 2020
+<!-- ##### (delete me or comment me out)
+ -->
+**Today's Progress**: Finished first personal project!
+
+**Thoughts**: more html and css practice.
+
+### Day 8: August 25, 2020
+<!-- ##### (delete me or comment me out)
+ -->
+**Today's Progress**: Almost finished the Survey Form project on freecodecamp.
+
+**Thoughts**: There's a div I have to solve tomorrow!
+
+**Link(s) to work**: https://codepen.io/emrockarts/pen/OJNWVzM
+
+
