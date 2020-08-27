@@ -73,4 +73,13 @@
 
 **Link(s) to work**: https://codepen.io/emrockarts/pen/OJNWVzM
 
+### Day 9: August 26, 2020
+<!-- ##### (delete me or comment me out)
+ -->
+**Today's Progress**: HTML Structure, so many divs!
+
+**Thoughts**: Slow start on this one today.
+
+**Link(s) to work**: https://codepen.io/emrockarts/pen/abNWNVL
+
 
